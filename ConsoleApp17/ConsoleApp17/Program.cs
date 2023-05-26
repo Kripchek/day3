@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp17
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
             List<Employees> employee = new List<Employees>()
             {
