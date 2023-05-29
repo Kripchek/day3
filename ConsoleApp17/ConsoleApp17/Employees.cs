@@ -34,12 +34,6 @@ namespace ConsoleApp17
             get => _salary;
             set => _salary = value;
         }
-        public void GetEmployeesInfo()
-        {
-            foreach (Employees emp in P)
-            {
-
-            }
-        }
+      
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Студент\\source\\repos\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj": {}
+    "C:\\Users\\Студент\\Downloads\\day3-main\\day3-main\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Студент\\source\\repos\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj": {
+    "C:\\Users\\Студент\\Downloads\\day3-main\\day3-main\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Студент\\source\\repos\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\Downloads\\day3-main\\day3-main\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
         "projectName": "ConsoleApp17",
-        "projectPath": "C:\\Users\\Студент\\source\\repos\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
+        "projectPath": "C:\\Users\\Студент\\Downloads\\day3-main\\day3-main\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
         "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Студент\\source\\repos\\ConsoleApp17\\ConsoleApp17\\obj\\",
+        "outputPath": "C:\\Users\\Студент\\Downloads\\day3-main\\day3-main\\ConsoleApp17\\ConsoleApp17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
