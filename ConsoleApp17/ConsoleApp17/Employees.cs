@@ -11,12 +11,14 @@ namespace ConsoleApp17
         public string _fullName;
         public int _department;
         public double _salary;
+        public int _id;
 
-        public Employees(string fullname,int department,double salary) 
+        public Employees(string fullname,int department,double salary,int id) 
         {
             _fullName = fullname;
             _department = department;
             _salary = salary; 
+            _id = id;
 
         }
         public string FullName
@@ -34,6 +36,10 @@ namespace ConsoleApp17
             get => _salary;
             set => _salary = value;
         }
-      
+        public int ID
+        {
+            get => _id;
+            set => _id = value;
+        }
     }
 }
